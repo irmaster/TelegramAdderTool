@@ -3,7 +3,7 @@ import json
 
 from helper.login import login, create
 from helper.logs import log
-from . import rs, w, r, banner, clr
+from init import clr, banner, w, r, rs
 
 clr()
 banner()

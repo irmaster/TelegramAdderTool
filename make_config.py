@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-from . import rs, w, r, banner, clr
+from init import rs, w, r, banner, clr, lg
 
 clr()
 banner()

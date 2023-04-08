@@ -4,7 +4,7 @@ from pathlib import Path
 
 from helper.data import get_data
 from helper.filter import filterus
-from . import rs, w, r, banner, clr
+from init import rs, w, r, banner, clr
 
 clr()
 banner()

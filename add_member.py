@@ -3,7 +3,7 @@ import json
 from itertools import dropwhile
 
 from helper.account_handler import add_member
-from . import rs, w, r, banner, clr
+from init import rs, w, r, banner, clr
 
 clr()
 banner()
